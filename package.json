@@ -5,7 +5,8 @@
   "description": "Simple API with Node.js and Cloudinary",
   "main": "server.js",
   "scripts": {
-    "start": "nodemon server.js"
+	"dev": "nodemon server.js",
+	"start": "node server.js"
   },
   "keywords": [
     "reactjs",
